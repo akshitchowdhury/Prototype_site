@@ -1,0 +1,21 @@
+
+
+.sider{
+
+    margin-left: 0px;
+    width: 70px;
+    height: 70vh;
+    /* border: solid black; */
+    
+
+    background-color: #900C3F;
+    display: flex;
+    flex-direction: column;
+
+
+        
+}
+
+#house{
+    margin-top: 40vh;
+}

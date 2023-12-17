@@ -1,0 +1,9 @@
+div{
+
+    display: block;
+
+}
+
+.child{
+    display: inline-block;
+}
